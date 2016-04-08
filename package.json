@@ -8,7 +8,6 @@
   },
   "main": "lib/HtmlText.js",
   "dependencies": {
-    "parse5": "^1.4.1",
-    "react-native": "git://github.com/facebook/react-native.git"
+    "parse5": "^1.4.1"
   }
 }
