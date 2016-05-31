@@ -4,14 +4,16 @@
  */
 'use strict';
 
-var React = require('react-native');
-var {
+import React from 'react';
+
+import {
   AppRegistry,
   StyleSheet,
   Text,
   View,
-} = React;
-var HtmlText = require('./lib/HtmlText')
+} from 'react-native';
+
+import HtmlText from './lib/HtmlText';
 
 var HtmlTextApp = React.createClass({
   render: function() {
