@@ -1,6 +1,6 @@
 {
   "name": "react-native-html-to-text",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Use HTML like markup to create stylized text in react-native.",
   "private": false,
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anthonyzou/react-native-htmltext.git"
+    "url": "git+https://github.com/Anthonyzou/react-native-html-to-text.git"
   },
   "keywords": [
     "react-native",
@@ -22,7 +22,7 @@
   "author": "Anthony Ou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Anthonyzou/react-native-htmltext/issues"
+    "url": "https://github.com/Anthonyzou/react-native-html-to-text/issues"
   },
-  "homepage": "https://github.com/Anthonyzou/react-native-htmltext#readme"
+  "homepage": "https://github.com/Anthonyzou/react-native-html-to-text#readme"
 }
